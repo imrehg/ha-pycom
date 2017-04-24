@@ -9,8 +9,8 @@ os.dupterm(uart)
 
 pycom.heartbeat(False)
 
-SSID=''
-WIFI_PASSWORD=''
+SSID = ''
+WIFI_PASSWORD = ''
 
 wlan = WLAN(mode=WLAN.STA)
 wlan.scan()

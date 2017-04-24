@@ -5,9 +5,9 @@ import pycom
 import json
 
 ### Settings, adjust as required for your case!
-MQTT_BROKER_ADDRESS=''
-MQTT_BROKER_PORT=1883
-MQTT_CONTROL_TOPIC='pycom/light/set'
+MQTT_BROKER_ADDRESS = ''
+MQTT_BROKER_PORT = 1883
+MQTT_CONTROL_TOPIC = 'pycom/light/set'
 ###
 
 
